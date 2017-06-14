@@ -1,6 +1,6 @@
 # buck-cxx-hello-world
 
-This is a "Hello World" example of C++ project built using [Buck](https://buckbuild.com/).
+This is a "Hello World" example of a C++ project built using [Buck](https://buckbuild.com/).
 
 Before you get started, you will need a C++ compiler and Buck installed on your system. Further documentation can be found [on the Buck website](https://buckbuild.com/setup/getting_started.html).
 
